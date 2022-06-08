@@ -36,7 +36,7 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 
 ### Exemplos
 
-| **Entrada (vetor coluna)** | **Saída** |
+| **Entrada**                | **Saída** |
 | -------------------------- | --------- |
 | 4                          | 0         | 
 | 3                          |           |
@@ -45,7 +45,7 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 | 0                          |           |
  
 
-| **Entrada (vetor coluna)** | **Saída** |
+| **Entrada**                | **Saída** |
 | -------------------------- | --------- |
 | 10                         | 7         |
 | 1                          |           |
