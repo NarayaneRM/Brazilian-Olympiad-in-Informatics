@@ -19,13 +19,13 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 
 ### Exemplos
 
-| **Entrada** | **Saída** | | **Entrada** | **Saída** |
-| ----------- | --------- | | ----------- | --------- |
-| V           | 2         | | P           | -1        |
-| V           |           | | P           |           | 
-| P           |           | | P           |           | 
-| P           |           | | P           |           | 
-| P           |           | | P           |           | 
-| V           |           | | P           |           | 
+| **Entrada** | **Saída** | **Entrada** | **Saída** |
+| ----------- | --------- | ----------- | --------- |
+| V           | 2         | P           | -1        |
+| V           |           | P           |           | 
+| P           |           | P           |           | 
+| P           |           | P           |           | 
+| P           |           | P           |           | 
+| V           |           | P           |           | 
 
 
