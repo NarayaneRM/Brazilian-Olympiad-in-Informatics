@@ -21,6 +21,20 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 
 | **Entrada** | **Saída** |
 | ----------- | --------- |
-| V V P P P V | 2         |
-| P P P P P P | -1        |
+| V           | 2         |
+| V           |           | 
+| P           |           | 
+| P           |           | 
+| P           |           | 
+| V           |           |
+
+| **Entrada** | **Saída** |
+| ----------- | --------- |
+| P           | -1        |
+| P           |           | 
+| P           |           | 
+| P           |           | 
+| P           |           | 
+| P           |           |
+
 
