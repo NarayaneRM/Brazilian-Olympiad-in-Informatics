@@ -38,12 +38,25 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 
 | **Entrada (vetor coluna)** | **Saída** |
 | -------------------------- | --------- |
-| 4 3 0 4 0                  | 0         |
-
+| 4                          | 0         | 
+| 3                          |           |
+| 0                          |           | 
+| 4                          |           | 
+| 0                          |           |
  
 
 | **Entrada (vetor coluna)** | **Saída** |
 | -------------------------- | --------- |
-| 10 1 3 5 4 0 0 7 0 0 6     | 7         |
+| 10                         | 7         |
+| 1                          |           |
+| 3                          |           |
+| 5                          |           |
+| 4                          |           |
+| 0                          |           |
+| 0                          |           |
+| 7                          |           |
+| 0                          |           |
+| 0                          |           |
+| 6                          |           |
 
  
